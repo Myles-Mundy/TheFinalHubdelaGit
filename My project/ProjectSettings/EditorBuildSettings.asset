@@ -14,4 +14,31 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Lobby.unity
     guid: 2571d37c3f5063c49a7aa216e3ae5b5e
+  - enabled: 1
+    path: "Assets/Scenes/Slots/1\xA2slot.unity"
+    guid: 17c388c845627c342adf5c92f87918ce
+  - enabled: 1
+    path: "Assets/Scenes/Slots/25\xA2slot.unity"
+    guid: dcc4df879e9e7c042ba3395b4ad1f976
+  - enabled: 1
+    path: Assets/Scenes/Slots/$1slot.unity
+    guid: b10a481a492be444ebd3398b6cd3c79f
+  - enabled: 1
+    path: Assets/Scenes/Slots/$10slot.unity
+    guid: 6d04160d61b68854cbd3ff10a7bdfb95
+  - enabled: 1
+    path: Assets/Scenes/Slots/$100slot.unity
+    guid: 1ccaebb8665d7ab49964a5ae199ead74
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: 2b057a179476e9d419f63977088a74fb
+  - enabled: 1
+    path: Assets/Scenes/WinEnd.unity
+    guid: ca3cac580d3f6da478a5f289481f0ea9
+  - enabled: 1
+    path: Assets/Scenes/FinalGame.unity
+    guid: 1726b565a3eeec54ea39c61f761ce577
+  - enabled: 1
+    path: Assets/Scenes/BadEnd.unity
+    guid: 6b760de5eeeda0646a97c028fe4121f1
   m_configObjects: {}
