@@ -23,3 +23,4 @@ More gamabling games, add animations, shop system.
 Myles Mundy- made slots machine scenes
 Angel Zamorano - made the lobby scene, walking code, and added transitions to lobby to slot machine
 Trenton Fender - Took care of start, as well as win/loss screens
+Nick Skinner - responsible for most of pixel art and game aesthetic
