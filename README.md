@@ -16,6 +16,7 @@ A walkable level, rng slot machines, ui elements, button system, multiple ending
 ## Refernces
 Music provided by Dillon Turner aka Angel's best friend
 Background models for title, win/loss screnes - https://sketchfab.com/3d-models/gamble-battle-3241e58a5f9b4020ba103a2c845412fe, & https://sketchfab.com/3d-models/modern-casino-bar-virtual-casino-asset-pack-3e8eba9a0e2f4433a6d163f8a5f46282
+Kaching sound effect from freesound_community on Pixbay https://pixabay.com/users/freesound_community-46691455/
 
 ## Future Development
 More gamabling games, add animations, shop system.
