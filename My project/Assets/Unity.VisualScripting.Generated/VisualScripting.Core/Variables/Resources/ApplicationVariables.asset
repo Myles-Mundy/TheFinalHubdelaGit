@@ -23,7 +23,7 @@ MonoBehaviour:
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"},{"name":"totalNeeded","value":{"$content":10000,"$type":"System.Int32"},"typeHandle":{"Identification":"System.Int32,
       mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","$version":"A"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
-    - {fileID: 21300000, guid: a227e5d12a9ed5d43884dd757720b8f2, type: 3}
-    - {fileID: 21300000, guid: 788894a7e96be29479280be0e8965509, type: 3}
-    - {fileID: 21300000, guid: 9d7050d42ccaf374e95679d23418c613, type: 3}
-    - {fileID: 21300000, guid: c751e041cc393934cb78808f677c772f, type: 3}
+    - {fileID: 21300000, guid: 4e99bf1d926269242ae985f420ae61f8, type: 3}
+    - {fileID: 21300000, guid: ad85fc4d872719243bb82726f40476f6, type: 3}
+    - {fileID: 21300000, guid: 26156b8ad9dd89c42ae253f242879e29, type: 3}
+    - {fileID: 21300000, guid: 8978b4d09a4fdd840a30ebf5b8302498, type: 3}
